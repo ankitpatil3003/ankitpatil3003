@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit Patil
-- 👀 I’m interested in Game Developement
+- 👀 I’m interested in Software Developement
 - 🌱 I’m currently learning for Master's in Computer Science from Binghamton University
 - 📫 How to reach me contact me through LinkedIn. I am active on it.
 - 😄 Pronouns: he/him
